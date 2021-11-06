@@ -1,0 +1,438 @@
+#body-homepage {
+  background-image: url(/img/background.png);
+}
+
+.container {
+  width: 1400px;
+  margin: 0 auto;
+}
+
+header {
+  background-image: url("/img/backgroundimg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 1052px;
+  position: relative;
+  font-family: "Lato", sans-serif;
+}
+
+#block {
+  width: 100%;
+  height: 1052px;
+  background-color: black;
+  opacity: 62%;
+  position: relative;
+}
+
+nav a {
+  float: left;
+  padding: 20px 20px;
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+nav {
+  width: 600px;
+  position: fixed;
+  right: 150px;
+  top: 30px;
+  z-index: 1;
+  border-bottom: white 2px solid;
+}
+
+h1 {
+  position: absolute;
+  font-size: 150px;
+  width: 886px;
+  top: 30%;
+  font-weight: 900;
+}
+
+#titel1 {
+  left: 163px;
+  color: white;
+  z-index: 3;
+}
+
+#titel2 {
+  left: 152px;
+  color: #5623a8;
+  z-index: 2;
+}
+
+.quote {
+  font-style: italic;
+  font-size: 30px;
+  color: #5623a8;
+  text-align: center;
+}
+
+img {
+  display: block;
+}
+
+.logo {
+  width: 246px;
+  height: 205px;
+  margin-top: 50px;
+  margin: 0 auto;
+}
+
+main {
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  font-size: 24px;
+  line-height: 35px;
+}
+#paragraph1 {
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-bottom: 80px;
+  text-align: center;
+  width: 877px;
+}
+#quote1 {
+  color: #5623a8;
+  margin-bottom: 80px;
+  text-align: right;
+}
+
+h2 {
+  color: #8d51ed;
+  font-weight: 900;
+  font-size: 50px;
+}
+
+p {
+  font-size: 24px;
+}
+
+#paragraph2 {
+  width: 706px;
+  font-weight: bold;
+  margin-right: 22.5px;
+  margin-top: 15px;
+}
+
+#netfliximg {
+  width: 449px;
+  height: 382px;
+  float: right;
+}
+
+#kopje2 {
+  margin-left: 100px;
+}
+
+#button-kopje2 {
+  margin-left: 257px;
+  margin-top: 30px;
+}
+
+#quote2 {
+  color: #5623a8;
+  text-align: center;
+  margin-top: 127.5px;
+  margin-bottom: 327.5px;
+}
+
+#subtitel2 {
+  font-size: 50px;
+  color: #8d51ed;
+  width: 596.96px;
+  text-align: center;
+  margin-left: 28px;
+  margin-bottom: 12.5px;
+}
+
+#paragraph3 {
+  color: white;
+  width: 610px;
+  text-align: center;
+  margin-left: 28px;
+}
+
+#button-kopje3 {
+  margin-left: 237.5px;
+  margin-top: 35px;
+}
+
+.button {
+  width: 192px;
+  height: 43px;
+  background-color: #8d51ed;
+  color: white;
+  font-style: italic;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 9px;
+  transition: 180ms ease-in;
+}
+
+.button:hover {
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  -ms-transform: scale(1.1);
+}
+
+#beeldmodernaddiction {
+  margin-left: 100px;
+  margin-bottom: 225px;
+}
+
+#illustratie-telefoon {
+  margin-left: 50px;
+}
+
+#illustratie-brein {
+  margin-left: 36px;
+  margin-top: 46px;
+}
+
+#illustratie-gamer {
+  margin-left: 36px;
+}
+
+#subtitel3 {
+  margin: 0 auto;
+  margin-top: 225px;
+  border-bottom: solid white 3px;
+  width: 956px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+h3 {
+  font-size: 30px;
+  color: #8d51ed;
+  font-weight: 900;
+  margin-bottom: 15px;
+}
+
+.h3-kopje {
+  color: white;
+  width: 257px;
+}
+
+#game-addiction {
+  margin-left: 147px;
+}
+
+#social-media {
+  margin-left: 147px;
+}
+
+#netflix-addiction {
+  margin-left: 147px;
+}
+
+.center2 {
+  margin: 0 auto;
+}
+
+#quote3 {
+  width: 704px;
+  margin: 0 auto;
+  margin-top: 380px;
+  margin-bottom: 191px;
+}
+
+footer {
+  font-family: "Poppins", sans-serif;
+}
+
+footer img {
+  width: 42px;
+  height: 38px;
+  margin-top: 15px;
+  margin-right: 15px;
+}
+
+.icons {
+  margin-top: 40px;
+  margin-left: 93.75px;
+}
+
+footer ul li {
+  color: white;
+  font-size: 30px;
+  margin-top: 25px;
+}
+
+.footer-websites {
+  margin-left: 93.75px;
+}
+
+.footer-contact {
+  margin-left: 93.75px;
+}
+
+#email {
+  width: 256px;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+/*article*/
+
+#body-article {
+  background-image: url(/img/background-article.png);
+}
+
+#header-article {
+  background-image: url(/img/header-picture-article.png);
+  border-bottom: solid white 3px;
+}
+
+#body-article p {
+  color: white;
+  font-size: 22;
+}
+
+#title-article {
+  color: white;
+  left: 153px;
+}
+  
+.quote-article {
+  font-style: italic;
+  font-size: 30px;
+  color: #8d51ed;
+  text-align: center;
+}
+
+#quote-header-article {
+  color: white;
+  left: 65%;
+  top: 75%;
+  position: absolute;
+  width: 480px;
+}
+
+#quote2-article {
+  width: 525px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.notendop {
+  width: 747px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+.line {
+  width: 1209px;
+  height: 3px;
+  background-color: white;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+.anekdote-designtheory {
+  width: 877px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+#foto-gamen {
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+#body-article h2 {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+#body-article p {
+  margin-bottom: 50px;
+}
+
+#vuurwerk {
+  text-align: center;
+}
+
+.kopje-vuurwerk {
+  margin: 0 auto;
+ width: 877px;
+}
+
+#foto-spiderman {
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+#gokken {
+  text-align: center;
+}
+
+.kopje-gokken {
+  margin: 0 auto;
+  width: 877px;
+}
+
+#quote3-article {
+  width: 468px;
+  margin-top: 157px;
+}
+
+#foto-fortnite {
+  margin-left: 260px;
+  margin-bottom: 50px;
+}
+
+#verslaving {
+margin-left: 345.5px;
+}
+
+.kopje-verslaving {
+  width: 737px;
+  margin-left: 127px;
+  margin-right: 40px;
+}
+
+#foto-meggy {
+  margin-bottom: 50px;
+}
+
+#quote4-article {
+  width: 740px;
+  margin-top: 65px;
+  margin-left: 543px;
+}
+
+#afsluiting {
+  margin: 0 auto;
+  margin-top: 100px;
+  width: 737px;
+  text-align: center;
+}
+
+#body-article footer {
+  margin-top: 200px;
+}
+
+#body-article footer li {
+  color: black;
+}
+
+
+
+
+
+
